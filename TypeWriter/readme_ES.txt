@@ -80,6 +80,6 @@ Notas adicionales:
 --------------------------------------------------------------------------------
 Licencia:
 Este script es de uso libre, puedes usarlo, modificarlo y distribuirlo. 
-Sin embargo, te agradecería si me mencionas " KyraEgon "si usas este script en tus proyectos.
+Sin embargo, te agradecería si me mencionas " KyraEgon " si usas este script en tus proyectos.
 
 ================================================================================
