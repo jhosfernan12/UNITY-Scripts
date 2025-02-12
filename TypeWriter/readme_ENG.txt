@@ -80,6 +80,7 @@ Additional Notes:
 
 --------------------------------------------------------------------------------
 License:
-This code is provided "as-is". No warranty of any kind is provided.
+This script is free to use, modify, and distribute. 
+However, I would appreciate it if you mention "KyraEgon" if you use this script in your projects.
 
 ================================================================================
